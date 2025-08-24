@@ -174,6 +174,7 @@ Causa: la box resta nello stato `locked` e non viene sbloccata. Occorre eseguire
 
 ## 5. Stato attuale
 
+* Documentazione main contract su schrodinger_box_analysis.md
 * Tutte le operazioni **single-chain** (mint, deposito, prelievo, trasferimento box) funzionano.
 * Il bridge cross-chain richiede:
 
